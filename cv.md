@@ -1,9 +1,7 @@
 
 ---
 ## Summary
-Dmitriy Vorozhishchev, 
-born 11.12.1987
-DSP and ML algorithms of signal identification and classification programmer
+- Dmitriy Vorozhishchev, born 11.12.1987, DSP and ML algorithms of signal identification and classification programmer
 
 ## Contact:
   - _Phone_: +79818303018
@@ -13,10 +11,13 @@ DSP and ML algorithms of signal identification and classification programmer
 
 ## Skills
 ***Programming Languages*** : C/C++ | Python | JavaScript  
+
 ***VCS*** : Git
+
 ***IDE*** : IntelliJ IDEA | Visual Studio Code | Visual Studio 2017
-***Frameworks and Other*** : QT | INTEL IPP Library | Keras | XGBoost | Pandas | NumPy | Matplotlib
-***Other useful skills*** : CSS | Selenium 
+
+***Frameworks and Other*** : QT | INTEL IPP Library | Keras | XGBoost | Pandas | NumPy | Matplotlib | CSS | Selenium
+
 
 
 ## Code examples
